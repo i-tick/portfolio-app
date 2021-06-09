@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.aa128882.chunk.css",
+    "main.js": "/portfolio-app/static/js/main.feca5d96.chunk.js",
+    "main.js.map": "/portfolio-app/static/js/main.feca5d96.chunk.js.map",
+    "runtime-main.js": "/portfolio-app/static/js/runtime-main.00601643.js",
+    "runtime-main.js.map": "/portfolio-app/static/js/runtime-main.00601643.js.map",
+    "static/css/2.2aa38b9c.chunk.css": "/portfolio-app/static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.df315e30.chunk.js": "/portfolio-app/static/js/2.df315e30.chunk.js",
+    "static/js/2.df315e30.chunk.js.map": "/portfolio-app/static/js/2.df315e30.chunk.js.map",
+    "static/js/3.9c50c4fd.chunk.js": "/portfolio-app/static/js/3.9c50c4fd.chunk.js",
+    "static/js/3.9c50c4fd.chunk.js.map": "/portfolio-app/static/js/3.9c50c4fd.chunk.js.map",
+    "index.html": "/portfolio-app/index.html",
+    "static/css/2.2aa38b9c.chunk.css.map": "/portfolio-app/static/css/2.2aa38b9c.chunk.css.map",
+    "static/css/main.aa128882.chunk.css.map": "/portfolio-app/static/css/main.aa128882.chunk.css.map",
+    "static/js/2.df315e30.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.df315e30.chunk.js.LICENSE.txt",
+    "static/media/Aitik Resume.c6b1406e.pdf": "/portfolio-app/static/media/Aitik Resume.c6b1406e.pdf",
+    "static/media/aitik.746d36b2.jpeg": "/portfolio-app/static/media/aitik.746d36b2.jpeg",
+    "static/media/styles.css": "/portfolio-app/static/media/background-image.9296ea51.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00601643.js",
+    "static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.df315e30.chunk.js",
+    "static/css/main.aa128882.chunk.css",
+    "static/js/main.feca5d96.chunk.js"
+  ]
+}
