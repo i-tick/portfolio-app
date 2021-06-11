@@ -9,6 +9,7 @@ function projectPage(){
         <div className="projectPage">
             <h1 className="Project-heading text-center pt-3">Projects</h1>
             <p className="project-subheading text-center">The application which I have developed using my knowledge</p>
+            <p className="project-subheading text-center">For more move on to my <a href="https://github.com/i-tick" target="_blank"> Github</a></p>
             <div className="">
                 <div className="row p-5 m-auto ">
                 <div className="projectcard dual">
@@ -16,7 +17,7 @@ function projectPage(){
                     <h3>Crypto Dshboard</h3><br></br>
                     <h5>Cryptocurrency Dashboard lets you monitor the top 100 currencies based on market cap size. It uses the Gecko Coin API to fetch crypto data.
                     </h5>
-                    <h6>TECH  STACK - NODE JS , REACT.JS, CHART.JS </h6>
+                    <h6>TECH  STACK - NODE JS, REACT.JS, CHART.JS, API </h6>
                     </div>
                     <div className="description">
                     <Button
@@ -73,7 +74,7 @@ function projectPage(){
                     <h3>Go Corona</h3><br></br>
                     <h5>Built an Android Chabot (syndrome mapping and self-assessment) which was connected to smart wrist band (for contact tracing).
                     </h5>
-                    <h6>TECH  STACK - Android Studio, IBM Watson, GCP, GSM Module, IMU Sensors</h6>
+                    <h6>TECH  STACK - Android Studio, Flutter, IBM Watson, GCP, GSM Module, IMU Sensors</h6>
                     </div>
                     <div className="description">
                     <Button
@@ -101,7 +102,7 @@ function projectPage(){
                     <h3>Face Mask & Social Distance Detection</h3><br></br>
                     <h5>Created a Face Mask Detection Model and an automated alarm system for detecting that social distancing is followed or not. 
                     </h5>
-                    <h6>TECH  STACK - IBM Watson Studio, IBM Visual Recognition, YOLO </h6>
+                    <h6>TECH  STACK - Python, IBM Watson Studio, IBM Visual Recognition, YOLO </h6>
                     </div>
                     <div className="description">
                     <Button
@@ -126,7 +127,9 @@ function projectPage(){
 
 
                 </div>
+                
             </div>
+            
         </div>
     )
 }

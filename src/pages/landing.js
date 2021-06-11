@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles.css'
-import avatar from '../aitik.jpeg'
+import avatar from '../Avtar.jpeg'
 import Footer from './footer'
 import Typed from 'react-typed';
 import About from './about'
@@ -10,7 +10,9 @@ import HireMe from './hiringPage'
 import Project from "./projects"
 import Services from "./services"
 import Collab from './collab'
+import Volunteer from "./volunteerexp"
 import { Link } from "react-scroll";
+import SkillHire from './skillshire';
 
 
 
@@ -27,6 +29,7 @@ function landingPage(){
                 strings={[
                     'I am a Student',
                     'I am a Android Application Developer',
+                    'I am a Front-End Developer',
                     'I am an Open Source Enthusiast',
                 ]}
                     typeSpeed={40}
@@ -65,6 +68,8 @@ function landingPage(){
             <Services/>
             <Experience/>
             <Collab/>
+            <Volunteer/>
+            <SkillHire/>
             <Education/>
             <HireMe/>
             <Project/>

@@ -22,8 +22,8 @@ function about(){
                     <div className="col-md-2"></div>
                     <div className="col-md-7 my-2">
                         <p>
-	                    Okay, so people call me Akshay. I am an Open-Source geek, vegetarian, and adventure sports addict and I like to explore as much as I can - mountains, valleys, deserts, and my life. My body consists of HTML, CSS & JavaScript, which defines me! This defines me as a Full-Stack Web Developer (Front End, Back End, Middleware, Whatever ...)  <br></br><br></br>
-                        I'm a Software Engineer and a highly motivated, passionate hard-core web developer with experience in developing web applications and my passion is to build and contribute to products that have a potential to create a huge positive impact on the world.
+	                    Okay, so people call me Aitik. I am an Open-Source geek and adventure sports addict and I like to explore as much as I can - mountains, valleys, deserts, and my life. My body consists of HTML, CSS & JavaScript, which defines me! I am also keen toward Android Applications Development. And finally Im a Flutter Developer too.  <br></br><br></br>
+                        I'm a upcoming Software Engineer and a highly motivated, passionate hard-core web developer with experience in developing web/android applications and my passion is to build and contribute to products that have a potential to create a huge positive impact on the world.
                         <br></br><br></br>
                         I conduct classes, seminars, webinars, and take personal mentoring sessions to help students technologically & otherwise. I love to contribute to the community and help others and for that and have been working as a Events Lead of <a href="https://www.codechef.com/campus_chapter/VSSUT_Chapter" target="_blank" rel="noreferrer">CodeChef VSSUT Chapter</a> and <a href="https://dsc.community.dev/veer-surendra-sai-university-of-technology/" target="_blank" rel="noreferrer">Google Developer Students Club Lead</a> at my Campus.
                         </p>
@@ -45,8 +45,7 @@ function about(){
                             <div className="header text-center">
                             <h4>NODEJS </h4>
                             <h4>EXPRESS</h4>
-                            <h4>JEST</h4>
-                            <h4>SUPERTEST</h4>
+                            
                     </div>
                         <div className="description text-center">
                             <h5>Backend Technologies & Testing</h5>
