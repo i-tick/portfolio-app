@@ -20,3 +20,6 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_AITIK_2000 }}'
           channelId: live
           projectId: aitik-2000
+      - name: Build project
+        run: |
+          CI=false npm run build

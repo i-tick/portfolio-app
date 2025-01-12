@@ -9,7 +9,7 @@ function projectPage() {
         <div className="projectPage">
             <h1 className="Project-heading text-center pt-3">Projects</h1>
             <p className="project-subheading text-center">The application which I have developed using my knowledge</p>
-            <p className="project-subheading text-center">For more move on to my <a href="https://github.com/i-tick" target="_blank"> Github</a></p>
+            <p className="project-subheading text-center">For more move on to my <a href="https://github.com/i-tick" target="_blank" rel="noopener noreferrer"> Github</a></p>
             <div className="">
                 <div className="row p-5 m-auto ">
 
@@ -262,7 +262,7 @@ function projectPage() {
                                 color="default"
                                 startIcon={<GitHubIcon />}
                                 href="https://github.com/i-tick"
-                                target="_blank"
+                                target="_blank" 
                             >
                                 GitHub
                             </Button>{" "}

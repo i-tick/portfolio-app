@@ -19,7 +19,7 @@ function education(){
 				icon={<SchoolIcon/>}
 			>
 				<h3 className="vertical-timeline-element-title">M.S. <br></br> Computer Science</h3>
-				<h4 className="vertical-timeline-element-subtitle"><a href="https://stonybrook.edu/"  target="_blank" rel="noreferrer" style={{textDecoration:'none',color:'#f5aa09'}}>State University of New York - Stony Brook</a> New York, US</h4>
+				<h4 className="vertical-timeline-element-subtitle"><a href="https://stonybrook.edu/"  target="_blank" rel="noopener noreferrer" style={{textDecoration:'none',color:'#f5aa09'}}>State University of New York - Stony Brook</a> New York, US</h4>
 				{/* <p>
 				Involved in performing analytics of their data to get meaningful results, end to end testing, platform releases, UI refactoring with backend API's.  
 				</p> */}
@@ -33,7 +33,7 @@ function education(){
 				icon={<SchoolIcon/>}
 			>
 				<h3 className="vertical-timeline-element-title">B. Tech <br></br> Computer Science & Engineering</h3>
-				<h4 className="vertical-timeline-element-subtitle"><a href="https://vssut.ac.in/"  target="_blank" rel="noreferrer" style={{textDecoration:'none',color:'#f5aa09'}}>Veer Surendra Sai University of Technology</a> Odisha, India</h4>
+				<h4 className="vertical-timeline-element-subtitle"><a href="https://vssut.ac.in/"  target="_blank" rel="noopener noreferrer" style={{textDecoration:'none',color:'#f5aa09'}}>Veer Surendra Sai University of Technology</a> Odisha, India</h4>
 				{/* <p>
 				Involved in performing analytics of their data to get meaningful results, end to end testing, platform releases, UI refactoring with backend API's.  
 				</p> */}
@@ -46,7 +46,7 @@ function education(){
 
 				>
 				<h3 className="vertical-timeline-element-title">Intermediate <br></br> Computer Science</h3>
-				<h4 className="vertical-timeline-element-subtitle"><a href="http://www.aecs1jaduguda.nic.in/"  target="_blank" rel="noreferrer" style={{textDecoration:'none',color:'#f5aa09'}}>Atomic Energy Central School - 1 </a> Jadugoda, India</h4>
+				<h4 className="vertical-timeline-element-subtitle"><a href="http://www.aecs1jaduguda.nic.in/"  target="_blank" rel="noopener noreferrer" style={{textDecoration:'none',color:'#f5aa09'}}>Atomic Energy Central School - 1 </a> Jadugoda, India</h4>
 				{/* <p>
         Involved in developing admin-side panel of our AI platform, refactoring UI/UX, implemented new features for users. 
 				</p> */}
@@ -61,7 +61,7 @@ function education(){
 
 				>
 				<h3 className="vertical-timeline-element-title">Matriculation <br></br>Science</h3>
-				<h4 className="vertical-timeline-element-subtitle"><a href="http://www.aecsnarwapahar.nic.in/"  target="_blank" rel="noreferrer" style={{textDecoration:'none',color:'#f5aa09'}}>Atomic Energy Central School </a> Narwapahar, India</h4>
+				<h4 className="vertical-timeline-element-subtitle"><a href="http://www.aecsnarwapahar.nic.in/"  target="_blank" rel="noopener noreferrer" style={{textDecoration:'none',color:'#f5aa09'}}>Atomic Energy Central School </a> Narwapahar, India</h4>
 				{/* <p>
         Involved in developing admin-side panel of our AI platform, refactoring UI/UX, implemented new features for users. 
 				</p> */}

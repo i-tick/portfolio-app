@@ -10,9 +10,9 @@ import HireMe from './hiringPage'
 import Project from "./projects"
 import Services from "./services"
 import Collab from './collab'
-import Volunteer from "./volunteerexp"
+// import Volunteer from "./volunteerexp"
 import { Link } from "react-scroll";
-import SkillHire from './skillshire';
+// import SkillHire from './skillshire';
 
 
 
@@ -43,11 +43,11 @@ function landingPage(){
             <br></br>
             <div className="socialIcons col-md-4 m-auto pb-5">
             <div className="rounded-social-buttons text-center">
-                <a href="https://www.facebook.com/aitik.dandapat.3" target="_blank" rel="noreferrer"><span className="circle-button facebook"></span></a>
-                <a href="https://twitter.com/AitikDandapat"  target="_blank" rel="noreferrer"><span className="circle-button twitter"></span></a>
-                <a href="https://www.linkedin.com/in/aitik-dandapat-b03395184/"  target="_blank" rel="noreferrer"><span className="circle-button linkedin"></span></a>
-                <a href="https://www.instagram.com/i_tick_/"  target="_blank" rel="noreferrer"><span className="circle-button instagram"></span></a>
-                <a href="https://github.com/i-tick"  target="_blank" rel="noreferrer"><span className="circle-button github"></span></a>
+                <a href="https://www.facebook.com/aitik.dandapat.3" target="_blank" rel="noopener noreferrer"><span className="circle-button facebook"></span></a>
+                <a href="https://twitter.com/AitikDandapat"  target="_blank" rel="noopener noreferrer"><span className="circle-button twitter"></span></a>
+                <a href="https://www.linkedin.com/in/aitik-dandapat-b03395184/"  target="_blank" rel="noopener noreferrer"><span className="circle-button linkedin"></span></a>
+                <a href="https://www.instagram.com/i_tick_/"  target="_blank" rel="noopener noreferrer"><span className="circle-button instagram"></span></a>
+                <a href="https://github.com/i-tick"  target="_blank" rel="noopener noreferrer"><span className="circle-button github"></span></a>
             </div>
             </div>
 

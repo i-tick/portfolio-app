@@ -56,11 +56,11 @@ function footer(){
                         <div className="footer-social-icon">
                                 <span className="landingPage-heading">Connect with me</span>
                                     <div className="rounded-social-buttons">
-                                        <a href="https://www.facebook.com/aitik.dandapat.3/"  target="_blank" rel="noreferrer"><span className="circle-button facebook"></span></a>
-                                        <a href="https://twitter.com/AitikDandapat"  target="_blank" rel="noreferrer"><span className="circle-button twitter"></span></a>
-                                        <a href="https://www.linkedin.com/in/aitik-dandapat-b03395184/"  target="_blank" rel="noreferrer"><span className="circle-button linkedin"></span></a>
-                                        <a href="https://www.instagram.com/i_tick_/"  target="_blank" rel="noreferrer"><span className="circle-button instagram"></span></a>
-                                        <a href="https://github.com/i-tick"  target="_blank" rel="noreferrer"><span className="circle-button github"></span></a>
+                                        <a href="https://www.facebook.com/aitik.dandapat.3/"  target="_blank" rel="noopener noreferrer"><span className="circle-button facebook"></span></a>
+                                        <a href="https://twitter.com/AitikDandapat"  target="_blank" rel="noopener noreferrer"><span className="circle-button twitter"></span></a>
+                                        <a href="https://www.linkedin.com/in/aitik-dandapat-b03395184/"  target="_blank" rel="noopener noreferrer"><span className="circle-button linkedin"></span></a>
+                                        <a href="https://www.instagram.com/i_tick_/"  target="_blank" rel="noopener noreferrer"><span className="circle-button instagram"></span></a>
+                                        <a href="https://github.com/i-tick"  target="_blank" rel="noopener noreferrer"><span className="circle-button github"></span></a>
                                     </div>  
                             </div>
                         </div>
@@ -73,7 +73,7 @@ function footer(){
                 <div className="row">
                     <div className="col-xl-6 col-lg-6 text-center text-lg-left">
                         <div className="copyright-text">
-                            <p>Copyright &copy; 2020, All Right Reserved <a href="https://i-tick.github.io/portfolio-app/"  target="_blank" rel="noreferrer">Aitik Dandapat</a></p>
+                            <p>Copyright &copy; 2020, All Right Reserved <a href="https://i-tick.github.io/portfolio-app/"  target="_blank" rel="noopener noreferrer">Aitik Dandapat</a></p>
                         </div>
                     </div>
                     <div className="col-xl-6 col-lg-6 d-none d-lg-block text-right">
