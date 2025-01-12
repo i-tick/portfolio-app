@@ -1,0 +1,2 @@
+### Hi there 👋
+I am [Aitik Dandapat](https://i-tick.github.io/portfolio-app) , a B.Tech CSE Student at Veer Surendra Sai University of Technology, Burla interested in making scalable web applications which can be used by people and help them to do certain work easily.
